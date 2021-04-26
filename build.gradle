@@ -6,7 +6,7 @@ plugins {
 }
 
 group = 'com.platzi'
-version = '1.0T'
+version = '1.0'
 sourceCompatibility = '11'
 
 
